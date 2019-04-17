@@ -16,7 +16,5 @@ spawners:
 	are there more?
 
 other:
-	port o head
 	spongeball stuff
 	arena challenge stuff
-	ring challenge stuff
