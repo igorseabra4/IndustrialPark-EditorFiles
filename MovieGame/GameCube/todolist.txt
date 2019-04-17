@@ -1,0 +1,39 @@
+fogger:
+	trench
+	junk
+	plank
+	v1
+	v2
+	v3
+
+flinger:
+	trench
+	junk
+
+spinner:
+	thug
+	junk
+	plank
+
+popper:
+	trench
+	plank
+
+turret:
+	v1 thug
+	v2 trench
+	v3 plank
+
+spawners:
+	trench
+	junk
+	plank
+	bosses?
+	arenas?
+	are there more?
+
+other:
+	port o head
+	spongeball stuff
+	arena challenge stuff
+	ice hitch
