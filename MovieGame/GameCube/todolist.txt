@@ -1,23 +1,7 @@
 fogger:
-	trench
-	junk
-	plank
 	v1
 	v2
 	v3
-
-flinger:
-	trench
-	junk
-
-spinner:
-	thug
-	junk
-	plank
-
-popper:
-	trench
-	plank
 
 turret:
 	v1 thug
@@ -25,7 +9,6 @@ turret:
 	v3 plank
 
 spawners:
-	trench
 	junk
 	plank
 	bosses?
@@ -36,4 +19,4 @@ other:
 	port o head
 	spongeball stuff
 	arena challenge stuff
-	ice hitch
+	ring challenge stuff
