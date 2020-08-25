@@ -1,7 +1,3 @@
-fogger:
-	v2
-	v3
-
 turret:
 	v1 thug
 	v2 trench
